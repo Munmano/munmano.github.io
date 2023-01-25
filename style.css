@@ -1,0 +1,27 @@
+p {
+    color: green;
+}
+h1 {
+    font-family: fantasy;
+    color:rgb(69, 13, 158);
+}
+h2 {
+    color:aqua;
+}
+div {
+    color:rgb(255, 255, 255);
+}
+li{
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:goldenrod;
+}
+footer{
+    position: relative;
+    margin-bottom: auto;
+    margin-left: 50%;
+}
+header
+{
+    background-color: aliceblue;
+}
